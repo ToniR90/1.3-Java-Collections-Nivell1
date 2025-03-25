@@ -11,9 +11,15 @@ An `ArrayList` will be created to store instances of each month, excluding "Augu
 
 
 💻 Technologies Used
+
 Java
 
 📋 Requirements
+
 Java JDK 11 or higher
 
-🛠️ Installation Clone this repository:
+🛠️ Installation 
+
+Clone this repository:
+
+https://github.com/ToniR90/1.3-Java-Collections-Nivell1.git
